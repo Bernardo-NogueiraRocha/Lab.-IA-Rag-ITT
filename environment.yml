@@ -1,19 +1,15 @@
-name: blip-captioning-env
+name: blip-env
 channels:
   - pytorch
-  - nvidia/label/cuda-12.1.1
-  - defaults
+  - nvidia
+  - conda-forge
 dependencies:
-  - python=3.12
+  - python=3.10
   - pip
-  - pytorch=2.6.0
-  - torchvision=0.17.0
-  - torchaudio=2.6.0
-
+  - pytorch=2.5.1
+  - pytorch-cuda=12.1  # Ajuste de acordo com a sua GPU/CUDA
+  - pillow
   - pip:
-    - transformers
-    - accelerate
-    - datasets
-    - Pillow
-    - requests
-    - scipy
+      - transformers==4.41.0
+      - accelerate
+      - safetensors
