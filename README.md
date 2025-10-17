@@ -15,3 +15,10 @@ Para deletar um modelo da cache é preciso:
 
 Seguido de:
 ``hf cache delete``
+
+Para executar um teste, basta usar:  
+``python Src/(blip-large, blip-base, test_gemini).py (diretório com imagens do teste)``  
+Para usar o VQA-base, passar a questão por argumento (não esquecer das aspas ""), junto do diretório de imagens:  
+``python Src/vqa-base.py (diretório) "(pergunta)"``  
+
+Se quiser redirecionar, usar o ``> arquivo.txt``

@@ -1,0 +1,20 @@
+Arquivo: Test_images/1.jpg
+Previsão: i see a lot of traffic on the highway
+Arquivo: Test_images/3.jpg
+Previsão: i see a bus in the middle of the road
+Arquivo: Test_images/7.jpg
+Previsão: i see a car in the middle of the road
+Arquivo: Test_images/8.jpg
+Previsão: i see a truck in the middle of the road
+Arquivo: Test_images/6.jpg
+Previsão: i see a blue car in the middle of the road
+Arquivo: Test_images/9.jpg
+Previsão: i see a car in the middle of the road
+Arquivo: Test_images/5.jpg
+Previsão: i see a police car in the middle of the road
+Arquivo: Test_images/4.jpg
+Previsão: i see a truck driving down the road
+Arquivo: Test_images/2.jpg
+Previsão: i see a white car in the middle of the road
+Arquivo: Test_images/10.jpg
+Previsão: i see a red car in the middle of the road

@@ -1,0 +1,60 @@
+PROMPT GERAL: Descreva esta imagem em detalhes, de forma sucinta, focando nos objetos e cores principais.
+
+ARQUIVO: 1.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra uma van branca vista de cima e em ângulo. A van domina a cena, ocupando a maior parte do campo visual. Ao fundo, parcialmente visível, há uma motocicleta preta. As cores predominantes são branco (van) e preto (motocicleta).
+
+ARQUIVO: 2.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um carro branco estacionado ou dirigindo em uma rua asfaltada. A perspectiva é de cima, provavelmente tirada de um prédio ou estrutura mais alta. A cor principal é o branco do carro, contrastando com o cinza/preto do asfalto. Há um pequeno poste preto visível à esquerda da imagem.
+
+ARQUIVO: 3.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição da imagem:
+
+A imagem mostra um ônibus visto de cima. O ônibus é predominantemente amarelo e vermelho na parte inferior, com um teto branco adornado com painéis que parecem ser painéis solares cinzentos e brancos. Na frente do ônibus, há um letreiro indicando o número da linha "166" e o destino "PLAILLERA". O ônibus está andando na rua.
+
+ARQUIVO: 5.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra uma van azul. Na frente, está escrito "STECBUD" em letras brancas. Há também escrita branca no lado do veículo, embora não seja facilmente legível devido à distância e ao ângulo da foto. O topo da van parece ter algumas manchas ou sujeira.
+
+ARQUIVO: 4.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um caminhão semi-reboque. A cabine do caminhão é azul, enquanto a parte do reboque apresenta uma combinação de branco na parte superior e vermelho nas laterais. O caminhão está em uma área pavimentada, com vegetação visível ao fundo.
+
+ARQUIVO: 6.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um carro azul minivan estacionado. O veículo parece ter um teto solar. A imagem foi tirada de um ângulo superior, mostrando principalmente a parte superior do carro.
+
+ARQUIVO: 7.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um carro cinza estacionado em uma rua. O carro parece ser um hatchback ou um sedan compacto. A rua é de asfalto e há alguns objetos escuros verticais (possivelmente postes ou marcadores de trânsito) à esquerda do carro. A iluminação na imagem sugere que foi tirada durante o dia.
+ARQUIVO: 8.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um caminhão branco com um contêiner azul na parte de trás. O caminhão parece estar em uma área de construção ou industrial, dado o entorno.
+
+ARQUIVO: 9.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição sucinta da imagem:
+
+A imagem mostra um carro prateado estacionado na rua. O carro parece ser um modelo da Audi. Um motociclista de capacete está visível passando próximo ao carro. O asfalto da rua é cinza.
+
+ARQUIVO: 10.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um carro vermelho estacionado na rua. A perspectiva é de cima, possivelmente tirada de um prédio ou estrutura elevada. A rua parece ser de paralelepípedos ou um material similar. Há também alguns postes pretos visíveis ao lado da rua.

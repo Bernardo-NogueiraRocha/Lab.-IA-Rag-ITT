@@ -1,0 +1,20 @@
+Arquivo: Test_images/1.jpg
+Previsão: i see a white van driving down a street with a motorcycle behind it
+Arquivo: Test_images/2.jpg
+Previsão: i see a white car driving down a street next to a building
+Arquivo: Test_images/3.jpg
+Previsão: i see a bus driving down a street next to a parking lot
+Arquivo: Test_images/4.jpg
+Previsão: i see a truck that is driving down the road with a red and white trailer
+Arquivo: Test_images/5.jpg
+Previsão: i see a blue van driving down a street with a man in the back seat
+Arquivo: Test_images/6.jpg
+Previsão: i see a blue van driving down a street next to a building
+Arquivo: Test_images/7.jpg
+Previsão: i see a car driving down a street in a parking lot
+Arquivo: Test_images/8.jpg
+Previsão: i see a truck driving down the street with a blue trailer
+Arquivo: Test_images/9.jpg
+Previsão: i see a man riding a motorcycle next to a car
+Arquivo: Test_images/10.jpg
+Previsão: i see a red car parked in a parking lot next to a building
