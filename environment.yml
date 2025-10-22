@@ -13,3 +13,5 @@ dependencies:
       - transformers==4.41.0
       - accelerate
       - safetensors
+      - google-genai
+      - ollama

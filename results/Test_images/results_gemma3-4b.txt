@@ -1,0 +1,71 @@
+PROCESSANDO ARQUIVO: 1.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra uma van branca em uma perspectiva de cima. 
+A van possui janelas grandes e um para-brisa. Os faróis são amarelos e os detalhes na frente 
+são pretos. Há um veículo preto no fundo.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 3.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra um ônibus branco com detalhes amarelos. 
+O ônibus tem placas solares em sua parte superior. 
+Ele possui o número "166" e a palavra "PLÁSSERA" na parte frontal do painel. 
+A parte inferior do ônibus é vermelha, e o ambiente ao redor é de uma área de estacionamento 
+com linhas pretas no asfalto.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 7.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra um carro sedan azul escuro em um estacionamento com piso cinza. 
+O carro é a principal fonte de cor na imagem, com detalhes em prata nas rodas e parte da carroceria. Há postes pretos ao fundo, indicando um ambiente urbano.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 8.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra um caminhão de carga, com cabine branca e um reboque azul. 
+O reboque está carregado com paletes de madeira. O fundo é neutro e desfocado.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 6.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra um carro de passeio azul. 
+O carro é um sedan, com um teto preto e janelas escuras. 
+Os faróis são brancos e a grade dianteira é cinza. O fundo é um pavimento com faixas brancas.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 9.jpg
+RESPOSTA DO GEMMA:
+Aqui está uma descrição detalhada da imagem:
+
+*   **Objeto principal:** Um carro sedan azul claro, em uma perspectiva de cima.
+*   **Detalhes do carro:** O carro possui faróis duplos, uma grade frontal com o logotipo "Audi" 
+    e rodas de alumínio. A janela do motorista está parcialmente aberta.
+*   **Outros objetos:** Uma moto branca com capacete está no canto inferior direito da imagem.
+*   **Fundo:** Uma superfície de concreto cinza e escorregadia.
+*   **Cores predominantes:** Azul claro, cinza e branco.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 5.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra uma van azul. 
+A van possui a inscrição "STECBUD" em branco na lateral. 
+O para-brisa está escuro e o veículo apresenta rodas e detalhes em cinza.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 4.jpg
+RESPOSTA DO GEMMA:
+Aqui está uma descrição sucinta da imagem:
+
+A imagem mostra um caminhão azul, com uma cabine e um tanque de carga vermelho. 
+O tanque é longo e retangular, ocupando a maior parte da parte superior da imagem. 
+O cenário é um asfalto, com vegetação ao fundo.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 2.jpg
+RESPOSTA DO GEMMA:
+A imagem mostra um carro branco em perspectiva lateral. 
+O carro possui design moderno, com faróis curvos, grade preta e uma linha que segue em 
+direção à traseira. O interior do carro está parcialmente visível, com o para-brisa em 
+tons de azul e cinza. O fundo é um piso cinza escuro.
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 10.jpg
+RESPOSTA DO GEMMA:
+Claro, aqui está uma descrição detalhada da imagem:
+
+A imagem mostra um carro de passeio vermelho escuro, em perspectiva lateral. 
+O carro possui um design moderno com linhas elegantes e faróis acentuados. 
+O teto é azul-escuro. O fundo é uma rua de concreto em tons de cinza e vermelho, 
+com postes de concreto na lateral. A imagem tem uma sensação de movimento devido à perspectiva 
+e ao efeito de névoa.
