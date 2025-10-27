@@ -1,0 +1,12 @@
+file|batch|time|class|tags
+Test_images/1.jpg|False|1.00|truck|truck, white truck, delivery truck
+Test_images/1.jpg|True|0.81|truck|truck, white truck, delivery truck
+Test_images/2.jpg|True|0.13|car|car, white car, white 
+Test_images/3.jpg|True|0.15|bus|bus, yellow and white, double decker
+Test_images/4.jpg|True|0.13|truck|truck, blue truck, semi truck
+Test_images/5.jpg|True|0.13|truck|truck, blue truck, bus truck
+Test_images/6.jpg|True|0.13|car|car, blue car, sedan 
+Test_images/7.jpg|True|0.13|car|car, silver car, sedan 
+Test_images/8.jpg|True|0.13|truck|truck, white truck, semi truck
+Test_images/9.jpg|True|0.13|car|car, silver car, audi 
+Test_images/10.jpg|True|0.13|car|car, red car, honda 

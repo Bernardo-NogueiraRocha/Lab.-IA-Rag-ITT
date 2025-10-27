@@ -1,3 +1,4 @@
+# Ambiente para rodar apenas testes com Ollama (gemma3-4b e Moondream)
 name: gemma-vision
 channels:
   - conda-forge

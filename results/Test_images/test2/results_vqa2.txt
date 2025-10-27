@@ -1,0 +1,88 @@
+python Src/vqa2.py Test_images/1.jpg,Test_images/2.jpg,Test_images/3.jpg,Test_images/4.jpg,Test_images/5.jpg,Test_images/6.jpg,Test_images/7.jpg,Test_images/8.jpg,Test_images/9.jpg,Test_images/10.jpg truck,car,bus,truck,truck,car,car,truck,car,car
+Using device: cuda
+Loading model: Salesforce/blip-vqa-base
+
+Image: Test_images/1.jpg
+Q: What is the color of the truck in the image?
+A: white truck
+Q: What is the type of the truck that is shown in the image?
+A: delivery truck
+Inference time for Test_images/1.jpg: 0.81 seconds
+
+Image: Test_images/2.jpg
+Q: What is the color of the car in the image?
+A: white car
+Q: What is the type of the car that is shown in the image?
+A: white 
+Inference time for Test_images/2.jpg: 0.13 seconds
+
+Image: Test_images/3.jpg
+Q: What is the color of the bus in the image?
+A: yellow and white
+Q: What is the type of the bus that is shown in the image?
+A: double decker
+Inference time for Test_images/3.jpg: 0.15 seconds
+
+Image: Test_images/4.jpg
+Q: What is the color of the truck in the image?
+A: blue truck
+Q: What is the type of the truck that is shown in the image?
+A: semi truck
+Inference time for Test_images/4.jpg: 0.13 seconds
+
+Image: Test_images/5.jpg
+Q: What is the color of the truck in the image?
+A: blue truck
+Q: What is the type of the truck that is shown in the image?
+A: bus truck
+Inference time for Test_images/5.jpg: 0.13 seconds
+
+Image: Test_images/6.jpg
+Q: What is the color of the car in the image?
+A: blue car
+Q: What is the type of the car that is shown in the image?
+A: sedan 
+Inference time for Test_images/6.jpg: 0.13 seconds
+
+Image: Test_images/7.jpg
+Q: What is the color of the car in the image?
+A: silver car
+Q: What is the type of the car that is shown in the image?
+A: sedan 
+Inference time for Test_images/7.jpg: 0.13 seconds
+
+Image: Test_images/8.jpg
+Q: What is the color of the truck in the image?
+A: white truck
+Q: What is the type of the truck that is shown in the image?
+A: semi truck
+Inference time for Test_images/8.jpg: 0.13 seconds
+
+Image: Test_images/9.jpg
+Q: What is the color of the car in the image?
+A: silver car
+Q: What is the type of the car that is shown in the image?
+A: audi 
+Inference time for Test_images/9.jpg: 0.13 seconds
+
+Image: Test_images/10.jpg
+Q: What is the color of the car in the image?
+A: red car
+Q: What is the type of the car that is shown in the image?
+A: honda 
+Inference time for Test_images/10.jpg: 0.13 seconds
+
+=== Summary of Captions ===
+Test_images/1.jpg (0.81s): truck, white truck, delivery truck
+Test_images/2.jpg (0.13s): car, white car, white 
+Test_images/3.jpg (0.15s): bus, yellow and white, double decker
+Test_images/4.jpg (0.13s): truck, blue truck, semi truck
+Test_images/5.jpg (0.13s): truck, blue truck, bus truck
+Test_images/6.jpg (0.13s): car, blue car, sedan 
+Test_images/7.jpg (0.13s): car, silver car, sedan 
+Test_images/8.jpg (0.13s): truck, white truck, semi truck
+Test_images/9.jpg (0.13s): car, silver car, audi 
+Test_images/10.jpg (0.13s): car, red car, honda 
+
+Total inference time: 2.02 seconds
+Average per image: 0.20 seconds
