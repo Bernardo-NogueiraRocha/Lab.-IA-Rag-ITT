@@ -1,0 +1,90 @@
+PROMPT GERAL: Carefully describe the content of this image in detail. Focus on identifying all vehicles, their types, colors, sizes, and any visible distinguishing characteristics such as brand logos, model shapes, or damage. Be objective and concise.
+
+------------------------------------------------------------
+Arquivo: Test_images/1.jpg
+
+Previsão:
+
+The image shows a white van driving down a road with other vehicles around it. The van is positioned centrally in the frame, surrounded by cars of various colors including black, gray, and silver. One car has a distinctive logo on its side, while another appears to have been involved in an accident. The background reveals more details about the surrounding environment, such as a sidewalk and a building with a "For Sale" sign.
+Tempo de processamento  1.1580891609191895
+
+
+------------------------------------------------------------
+Arquivo: Test_images/3.jpg
+
+Previsão:
+
+The image shows a yellow and red bus with the number "166" displayed on its front, driving down a street lined with trees. The bus is equipped with solar panels on top of it, indicating an eco-friendly design. The bus appears to be in good condition and well-maintained, as there are no visible signs of damage or wear.
+Tempo de processamento  1.0036706924438477
+
+
+------------------------------------------------------------
+Arquivo: Test_images/7.jpg
+
+Previsão:
+
+The image shows a silver car parked on a street with black poles lining the sidewalk behind it. The car is facing towards the right side of the frame, giving a clear view of its front end. There are no other cars visible in the scene.
+Tempo de processamento  0.8455183506011963
+
+
+------------------------------------------------------------
+Arquivo: Test_images/8.jpg
+
+Previsão:
+
+The image shows a white Mercedes-Benz truck with a blue flatbed trailer attached to it. The truck is driving down the street, passing by other vehicles on the road.
+Tempo de processamento  0.7442007064819336
+
+
+------------------------------------------------------------
+Arquivo: Test_images/6.jpg
+
+Previsão:
+
+The image shows a blue car parked on the side of a road. The car has a black roof rack and a silver bumper. It is positioned next to a curb with a sidewalk nearby. There are no other cars visible in the scene.
+Tempo de processamento  0.8259942531585693
+
+
+------------------------------------------------------------
+Arquivo: Test_images/9.jpg
+
+Previsão:
+
+The image shows a silver Audi car parked next to a black pole on a city street. A person is standing next to the car, possibly the driver or passenger. Another person can be seen in the background, but their face is not visible. The scene also includes other cars and pedestrians, indicating an urban setting with various vehicles and people going about their day.
+Tempo de processamento  1.0018184185028076
+
+
+------------------------------------------------------------
+Arquivo: Test_images/5.jpg
+
+Previsão:
+
+The image shows a blue van with white text that reads "STECBUD" on the front of it. The van is parked in a parking lot, facing towards the right side of the frame. There are no other vehicles visible in the scene.
+Tempo de processamento  0.8482096195220947
+
+
+------------------------------------------------------------
+Arquivo: Test_images/4.jpg
+
+Previsão:
+
+The image shows a blue semi-truck with a white trailer attached to it driving down the road. The truck is positioned in front of a building on the right side of the frame.
+Tempo de processamento  0.7545685768127441
+
+
+------------------------------------------------------------
+Arquivo: Test_images/2.jpg
+
+Previsão:
+
+The image shows a white car driving down a street with a sidewalk next to it. The car is positioned centrally within the frame, facing towards the right side of the photo. There are no other cars in the scene, suggesting that this is an isolated moment captured from above or through a camera mounted on a vehicle.
+Tempo de processamento  0.9396491050720215
+
+
+------------------------------------------------------------
+Arquivo: Test_images/10.jpg
+
+Previsão:
+
+The image shows a red car driving down a street with black poles lining both sides of the road. The car is positioned in front of a building on the left side of the photo, giving it an urban feel. There are no other cars visible in the frame, suggesting that this is a single vehicle captured at a specific moment.
+Tempo de processamento  0.9663276672363281
