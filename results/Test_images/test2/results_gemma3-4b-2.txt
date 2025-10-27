@@ -1,8 +1,5 @@
-PROMPT GERAL: Descreva esta imagem em detalhes, de forma sucinta, focando nos objetos e cores principais.
-
---------------------------------------------------
-PROCESSANDO ARQUIVO: 1.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/1.jpg
+Previsão:
 Aqui está uma descrição detalhada da imagem:
 
 *   **Veículo:** Uma van branca, com uma cabine separada do compartimento de carga.
@@ -13,21 +10,18 @@ Aqui está uma descrição detalhada da imagem:
 
 Espero que esta descrição seja útil!
 Tempo de processamento: 45.88232111930847
---------------------------------------------------
-PROCESSANDO ARQUIVO: 3.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/3.jpg
+Previsão:
 Aqui está uma descrição concisa da imagem:
 
 A imagem mostra um ônibus branco com detalhes amarelos e pretos. O ônibus possui placas solares na parte superior. Há números e letras no painel frontal do ônibus, indicando o número da linha. Ele está parado em uma rua com calçada em padrão de tijolos.
 Tempo de processamento: 41.36109781265259
---------------------------------------------------
-PROCESSANDO ARQUIVO: 7.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/7.jpg
+Previsão:
 A imagem mostra um carro sedan azul escuro em um estacionamento. O carro é moderno, com design aerodinâmico. O asfalto é cinza escuro. Há postes pretos ao fundo.
 Tempo de processamento: 40.48676609992981
---------------------------------------------------
-PROCESSANDO ARQUIVO: 8.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/8.jpg
+Previsão:
 Aqui está uma descrição detalhada da imagem:
 
 **Objetos:** A imagem mostra um caminhão de entrega com uma carga de caixas. O caminhão é branco e possui uma cabine de motorista. A carga é composta por várias caixas de diferentes tamanhos e cores, principalmente azul e marrom.
@@ -36,16 +30,14 @@ Aqui está uma descrição detalhada da imagem:
 
 **Foco:** O foco principal da imagem está no caminhão de entrega e na carga que ele transporta.
 Tempo de processamento: 42.50948190689087
---------------------------------------------------
-PROCESSANDO ARQUIVO: 6.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/6.jpg
+Previsão:
 Aqui está uma descrição concisa da imagem:
 
 A imagem mostra um carro azul, provavelmente um modelo de utilitário, de vista superior. O carro tem uma cor azul-escuro e a carroceria é limpa.  Há faróis brancos e a carroceria do veículo é um design familiar, semelhante a um utilitário familiar. Uma estrada embaçada está ao fundo.
 Tempo de processamento: 41.6729199886322
---------------------------------------------------
-PROCESSANDO ARQUIVO: 9.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/9.jpg
+Previsão:
 Aqui está uma descrição detalhada da imagem:
 
 *   **Objeto Principal:** Um carro sedã azul-claro (possivelmente uma Audi A3) está em um ângulo elevado, mostrando seu perfil.
@@ -55,14 +47,12 @@ Aqui está uma descrição detalhada da imagem:
 
 Espero que esta descrição seja útil!
 Tempo de processamento: 43.36475372314453
---------------------------------------------------
-PROCESSANDO ARQUIVO: 5.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/5.jpg
+Previsão:
 A imagem mostra uma van azul escura, com a inscrição "STECBUD" em branco na lateral. O para-brisa está empoeirado e o veículo possui rodas e detalhes em cinza.
 Tempo de processamento: 40.789628982543945
---------------------------------------------------
-PROCESSANDO ARQUIVO: 4.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/4.jpg
+Previsão:
 Aqui está uma descrição detalhada da imagem:
 
 *   **Veículo:** Um caminhão de carga azul.
@@ -71,13 +61,11 @@ Aqui está uma descrição detalhada da imagem:
 *   **Fundo:** Um caminho de terra e vegetação.
 *   **Cenário:** A imagem foi tirada de uma perspectiva elevada, mostrando o caminhão em movimento em uma estrada.
 Tempo de processamento: 42.4680061340332
---------------------------------------------------
-PROCESSANDO ARQUIVO: 2.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/2.jpg
+Previsão:
 A imagem mostra um carro branco. O carro é uma sedan com linhas suaves e feixes dianteiros bem definidos. O para-brisa é escuro e o interior é opaco. O ambiente ao redor é em tons de cinza, sugerindo um local urbano em condições climáticas escuras.
 Tempo de processamento: 41.42057466506958
---------------------------------------------------
-PROCESSANDO ARQUIVO: 10.jpg
-RESPOSTA DO GEMMA:
+Arquivo: Test_images/10.jpg
+Previsão:
 A imagem mostra um carro de passeio vermelho escuro em perspectiva lateral. O carro tem um design moderno com faróis iluminados e rodas pretas. O fundo é uma rua molhada e com piso de concreto cinza.
 Tempo de processamento: 40.92028522491455

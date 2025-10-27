@@ -37,7 +37,7 @@ def processar_diretorio_com_gemini():
                 caminho_completo = os.path.join(diretorio_imagens, nome_arquivo)
                 
                 print("-" * 50)
-                print(f"PROCESSANDO ARQUIVO: {nome_arquivo}")
+                print(f"Arquivo: {caminho_completo}")
 
                 try:
                     img = Image.open(caminho_completo)
@@ -49,7 +49,7 @@ def processar_diretorio_com_gemini():
                         contents=contents
                     )
                     end = time.time()
-                    print("RESPOSTA DO GEMINI:")
+                    print("Previsão:")
                     print(response.text)
                     print("Tempo de processamento:", end - start)
 
