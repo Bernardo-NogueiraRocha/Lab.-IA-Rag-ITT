@@ -1,0 +1,30 @@
+Arquivo: Test_images/1.jpg
+Previsão: i see a white van driving down a street with a motorcycle behind it
+Tempo de processamento: 0.9475932121276855
+Arquivo: Test_images/3.jpg
+Previsão: i see a bus driving down a street next to a parking lot
+Tempo de processamento: 0.2488853931427002
+Arquivo: Test_images/7.jpg
+Previsão: i see a car driving down a street in a parking lot
+Tempo de processamento: 0.23806500434875488
+Arquivo: Test_images/8.jpg
+Previsão: i see a truck driving down the street with a blue trailer
+Tempo de processamento: 0.23884916305541992
+Arquivo: Test_images/6.jpg
+Previsão: i see a blue van driving down a street next to a building
+Tempo de processamento: 0.252108097076416
+Arquivo: Test_images/9.jpg
+Previsão: i see a man riding a motorcycle next to a car
+Tempo de processamento: 0.22917532920837402
+Arquivo: Test_images/5.jpg
+Previsão: i see a blue van driving down a street with a man in the back seat
+Tempo de processamento: 0.28110694885253906
+Arquivo: Test_images/4.jpg
+Previsão: i see a truck that is driving down the road with a red and white trailer
+Tempo de processamento: 0.2812771797180176
+Arquivo: Test_images/2.jpg
+Previsão: i see a white car driving down a street next to a building
+Tempo de processamento: 0.24911713600158691
+Arquivo: Test_images/10.jpg
+Previsão: i see a red car parked in a parking lot next to a building
+Tempo de processamento: 0.2606539726257324

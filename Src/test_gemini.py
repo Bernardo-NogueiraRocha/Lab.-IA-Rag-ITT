@@ -3,6 +3,7 @@ import sys
 from google import genai
 from google.genai.errors import APIError
 from PIL import Image
+import time
 
 def processar_diretorio_com_gemini():
     
@@ -33,7 +34,6 @@ def processar_diretorio_com_gemini():
         
         for nome_arquivo in os.listdir(diretorio_imagens):
             if nome_arquivo.lower().endswith(('.jpg', '.jpeg')):
-                
                 caminho_completo = os.path.join(diretorio_imagens, nome_arquivo)
                 
                 print("-" * 50)
@@ -43,13 +43,15 @@ def processar_diretorio_com_gemini():
                     img = Image.open(caminho_completo)
                     contents = [img, prompt_texto]
                     
+                    start = time.time()
                     response = client.models.generate_content(
                         model=modelo,
                         contents=contents
                     )
-
+                    end = time.time()
                     print("RESPOSTA DO GEMINI:")
                     print(response.text)
+                    print("Tempo de processamento:", end - start)
 
                 except FileNotFoundError:
                     print(f"AVISO: O arquivo '{nome_arquivo}' não foi encontrado. Pulando.")

@@ -1,0 +1,30 @@
+Arquivo: Test_images/1.jpg
+Previsão: i see a lot of traffic on the highway
+Tempo de processamento: 0.8390285968780518
+Arquivo: Test_images/3.jpg
+Previsão: i see a bus in the middle of the road
+Tempo de processamento: 0.1177217960357666
+Arquivo: Test_images/7.jpg
+Previsão: i see a car in the middle of the road
+Tempo de processamento: 0.1185767650604248
+Arquivo: Test_images/8.jpg
+Previsão: i see a truck in the middle of the road
+Tempo de processamento: 0.11898350715637207
+Arquivo: Test_images/6.jpg
+Previsão: i see a blue car in the middle of the road
+Tempo de processamento: 0.12711358070373535
+Arquivo: Test_images/9.jpg
+Previsão: i see a car in the middle of the road
+Tempo de processamento: 0.11738967895507812
+Arquivo: Test_images/5.jpg
+Previsão: i see a police car in the middle of the road
+Tempo de processamento: 0.1260666847229004
+Arquivo: Test_images/4.jpg
+Previsão: i see a truck driving down the road
+Tempo de processamento: 0.0997774600982666
+Arquivo: Test_images/2.jpg
+Previsão: i see a white car in the middle of the road
+Tempo de processamento: 0.1261897087097168
+Arquivo: Test_images/10.jpg
+Previsão: i see a red car in the middle of the road
+Tempo de processamento: 0.12650179862976074

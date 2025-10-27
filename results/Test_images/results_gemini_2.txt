@@ -1,0 +1,76 @@
+PROMPT GERAL: Descreva esta imagem em detalhes, de forma sucinta, focando nos objetos e cores principais.
+
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 1.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra uma van branca vista de cima em um ângulo. Uma motocicleta escura pode ser vista parcialmente no canto superior esquerdo da imagem. O foco principal está na van, destacando sua cor branca e formato retangular.
+
+Tempo de processamento: 4.504711151123047
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 3.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição da imagem:
+
+A imagem mostra um ônibus visto de cima, com uma pintura que combina amarelo, laranja e vermelho na parte inferior e lateral. A parte superior do ônibus é branca, com vários painéis de cores diferentes, possivelmente painéis solares, instalados no teto. A frente do ônibus exibe o número "166" e o nome "PL.HALLERA" em letras grandes. O ônibus está em uma rua pavimentada, com listras diagonais no asfalto. Há também vegetação visível no lado direito da imagem.
+Tempo de processamento: 2.5433011054992676
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 7.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição da imagem:
+
+A imagem mostra um carro cinza estacionado na rua. O carro parece ser um hatchback ou sedan pequeno a médio. A rua está pavimentada e há objetos verticais escuros alinhados ao lado da rua, provavelmente postes ou marcadores.
+
+Tempo de processamento: 6.185597658157349
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 8.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um caminhão branco com uma carroceria basculante cheia de objetos azuis e possivelmente brancos ou cinzas. O caminhão está estacionado em uma superfície cinza clara, provavelmente uma rua ou estacionamento.
+Tempo de processamento: 10.653163194656372
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 6.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição sucinta da imagem:
+
+A imagem mostra uma minivan azul de cima. A minivan tem um teto solar e está estacionada em uma rua ou estacionamento. A cena tem luz natural.
+Tempo de processamento: 2.1454110145568848
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 9.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição sucinta da imagem:
+
+A imagem mostra um carro prateado estacionado à beira de uma estrada. Aparentemente, um motociclista está passando pelo carro no momento em que a foto foi tirada. O asfalto da estrada é cinza escuro.
+
+Tempo de processamento: 7.407733917236328
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 5.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra uma van azul com a palavra "STECBUD" escrita em letras brancas na frente. Há também texto branco menor visível na lateral da van. O telhado da van tem algumas manchas e reflexos.
+Tempo de processamento: 3.0160810947418213
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 4.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um caminhão articulado. A cabine do caminhão é azul e o trailer é predominantemente vermelho e branco. O ambiente ao redor inclui asfalto e alguma vegetação.
+Tempo de processamento: 3.366285800933838
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 2.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição sucinta da imagem:
+
+A imagem mostra um carro branco estacionado em uma rua. O carro parece ser um hatchback compacto. O asfalto da rua é visível, e há um poste preto ao lado do carro.
+Tempo de processamento: 3.2893447875976562
+--------------------------------------------------
+PROCESSANDO ARQUIVO: 10.jpg
+RESPOSTA DO GEMINI:
+Aqui está uma descrição concisa da imagem:
+
+A imagem mostra um carro vermelho estacionado em uma rua. A perspectiva é de cima, mostrando o capô, o teto e parte da lateral do veículo. O carro parece ser o foco principal da imagem. O fundo mostra uma rua com pavimentação cinza e alguns postes de segurança pretos.
+
+Tempo de processamento: 2.1759817600250244

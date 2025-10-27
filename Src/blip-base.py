@@ -7,11 +7,15 @@ model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-capt
 directory = sys.argv[1]
 
 import os
+import time
 for file in os.listdir(directory):
-     if file.endswith('.jpg'):
+    if file.endswith('.jpg'):
         print("Arquivo:",directory + file)
         raw_image = Image.open('Test_images/'+ file).convert('RGB')
         question = "I see a"
+        start = time.time()
         inputs = processor(raw_image, question,return_tensors="pt").to("cuda")
-        out = model.generate(**inputs)
+        out = model.generate(**inputs, max_new_tokens=50)
+        end = time.time()
         print("Previsão:",processor.decode(out[0], skip_special_tokens=True))
+        print("Tempo de processamento:",end - start)

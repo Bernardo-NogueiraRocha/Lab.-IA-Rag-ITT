@@ -3,6 +3,7 @@ import sys
 import base64
 from ollama import chat
 from PIL import Image
+import time
 
 def imagem_para_base64(caminho_imagem: str) -> str:
     """Lê uma imagem e retorna em base64 para enviar ao modelo."""
@@ -34,7 +35,7 @@ def processar_diretorio_com_gemma():
 
             try:
                 img_base64 = imagem_para_base64(caminho_completo)
-
+                start = time.time()
                 resposta = chat(
                     model=modelo,
                     messages=[
@@ -49,9 +50,10 @@ def processar_diretorio_com_gemma():
                         }
                     ]
                 )
-
+                end = time.time()
                 print("RESPOSTA DO GEMMA:")
                 print(resposta["message"]["content"])
+                print("Tempo de processamento:", end - start)
 
             except FileNotFoundError:
                 print(f"AVISO: O arquivo '{nome_arquivo}' não foi encontrado. Pulando.")
