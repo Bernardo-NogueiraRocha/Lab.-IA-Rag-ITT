@@ -5,7 +5,6 @@ from llama_index.llms.google_genai import GoogleGenAI
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 def load_vqa_results_to_documents(filepath: str):
-    """Parse VQA results text file and return a list of Documents."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -45,7 +44,7 @@ def main():
     index = VectorStoreIndex.from_documents(docs, embed_model=embed_model)
     query_engine = index.as_query_engine(llm=llm)
 
-    query = "white delivery truck"
+    query = "blue truck"
     print(f"\nQuery: {query}\n{'-'*40}")
     response = query_engine.query(query)
 

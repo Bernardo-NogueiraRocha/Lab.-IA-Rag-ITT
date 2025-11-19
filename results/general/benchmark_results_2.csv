@@ -1,0 +1,201 @@
+Execution_Number,Image_Name,Model,Time_to_Response_s,Model_Response
+1,1.jpg,BLIP-Large,0.2596,i see a white van driving down a street with a motorcycle behind it
+2,1.jpg,BLIP-Large,0.2585,i see a white van driving down a street with a motorcycle behind it
+3,1.jpg,BLIP-Large,0.2598,i see a white van driving down a street with a motorcycle behind it
+4,1.jpg,BLIP-Large,0.2597,i see a white van driving down a street with a motorcycle behind it
+5,1.jpg,BLIP-Large,0.2592,i see a white van driving down a street with a motorcycle behind it
+6,10.jpg,BLIP-Large,0.2594,i see a red car parked in a parking lot next to a building
+7,10.jpg,BLIP-Large,0.2593,i see a red car parked in a parking lot next to a building
+8,10.jpg,BLIP-Large,0.2607,i see a red car parked in a parking lot next to a building
+9,10.jpg,BLIP-Large,0.2610,i see a red car parked in a parking lot next to a building
+10,10.jpg,BLIP-Large,0.2595,i see a red car parked in a parking lot next to a building
+11,11.jpg,BLIP-Large,0.2605,i see a blue van driving down a street with a person walking by
+12,11.jpg,BLIP-Large,0.2601,i see a blue van driving down a street with a person walking by
+13,11.jpg,BLIP-Large,0.2604,i see a blue van driving down a street with a person walking by
+14,11.jpg,BLIP-Large,0.2589,i see a blue van driving down a street with a person walking by
+15,11.jpg,BLIP-Large,0.2598,i see a blue van driving down a street with a person walking by
+16,12.jpg,BLIP-Large,0.2288,i see a car that is parked in a parking lot
+17,12.jpg,BLIP-Large,0.2290,i see a car that is parked in a parking lot
+18,12.jpg,BLIP-Large,0.2284,i see a car that is parked in a parking lot
+19,12.jpg,BLIP-Large,0.2280,i see a car that is parked in a parking lot
+20,12.jpg,BLIP-Large,0.2281,i see a car that is parked in a parking lot
+21,13.jpg,BLIP-Large,0.2697,i see a car driving down the street with a dog in the back seat
+22,13.jpg,BLIP-Large,0.2699,i see a car driving down the street with a dog in the back seat
+23,13.jpg,BLIP-Large,0.2702,i see a car driving down the street with a dog in the back seat
+24,13.jpg,BLIP-Large,0.2701,i see a car driving down the street with a dog in the back seat
+25,13.jpg,BLIP-Large,0.2700,i see a car driving down the street with a dog in the back seat
+26,14.jpg,BLIP-Large,0.2799,i see a white van parked in a parking lot with a black and white photo
+27,14.jpg,BLIP-Large,0.2814,i see a white van parked in a parking lot with a black and white photo
+28,14.jpg,BLIP-Large,0.2811,i see a white van parked in a parking lot with a black and white photo
+29,14.jpg,BLIP-Large,0.2807,i see a white van parked in a parking lot with a black and white photo
+30,14.jpg,BLIP-Large,0.2801,i see a white van parked in a parking lot with a black and white photo
+31,15.jpg,BLIP-Large,0.2613,i see a truck driving down a street with a building in the background
+32,15.jpg,BLIP-Large,0.2603,i see a truck driving down a street with a building in the background
+33,15.jpg,BLIP-Large,0.2592,i see a truck driving down a street with a building in the background
+34,15.jpg,BLIP-Large,0.2595,i see a truck driving down a street with a building in the background
+35,15.jpg,BLIP-Large,0.2604,i see a truck driving down a street with a building in the background
+36,16.jpg,BLIP-Large,0.2404,i see a white truck with a white trailer on the back
+37,16.jpg,BLIP-Large,0.2392,i see a white truck with a white trailer on the back
+38,16.jpg,BLIP-Large,0.2389,i see a white truck with a white trailer on the back
+39,16.jpg,BLIP-Large,0.2397,i see a white truck with a white trailer on the back
+40,16.jpg,BLIP-Large,0.2399,i see a white truck with a white trailer on the back
+41,17.jpg,BLIP-Large,0.2498,i see a blue truck with a white top driving down the street
+42,17.jpg,BLIP-Large,0.2485,i see a blue truck with a white top driving down the street
+43,17.jpg,BLIP-Large,0.2509,i see a blue truck with a white top driving down the street
+44,17.jpg,BLIP-Large,0.2499,i see a blue truck with a white top driving down the street
+45,17.jpg,BLIP-Large,0.2503,i see a blue truck with a white top driving down the street
+46,18.jpg,BLIP-Large,0.2704,i see a red truck driving down a street with a large truck behind it
+47,18.jpg,BLIP-Large,0.2705,i see a red truck driving down a street with a large truck behind it
+48,18.jpg,BLIP-Large,0.2710,i see a red truck driving down a street with a large truck behind it
+49,18.jpg,BLIP-Large,0.2700,i see a red truck driving down a street with a large truck behind it
+50,18.jpg,BLIP-Large,0.2705,i see a red truck driving down a street with a large truck behind it
+51,19.jpg,BLIP-Large,0.2601,i see a blue truck driving down a street in a blurry photo
+52,19.jpg,BLIP-Large,0.2599,i see a blue truck driving down a street in a blurry photo
+53,19.jpg,BLIP-Large,0.2604,i see a blue truck driving down a street in a blurry photo
+54,19.jpg,BLIP-Large,0.2603,i see a blue truck driving down a street in a blurry photo
+55,19.jpg,BLIP-Large,0.2613,i see a blue truck driving down a street in a blurry photo
+56,2.jpg,BLIP-Large,0.2494,i see a white car driving down a street next to a building
+57,2.jpg,BLIP-Large,0.2509,i see a white car driving down a street next to a building
+58,2.jpg,BLIP-Large,0.2498,i see a white car driving down a street next to a building
+59,2.jpg,BLIP-Large,0.2511,i see a white car driving down a street next to a building
+60,2.jpg,BLIP-Large,0.2504,i see a white car driving down a street next to a building
+61,20.jpg,BLIP-Large,0.2597,i see a man standing on the hood of a car in the street
+62,20.jpg,BLIP-Large,0.2601,i see a man standing on the hood of a car in the street
+63,20.jpg,BLIP-Large,0.2605,i see a man standing on the hood of a car in the street
+64,20.jpg,BLIP-Large,0.2610,i see a man standing on the hood of a car in the street
+65,20.jpg,BLIP-Large,0.2603,i see a man standing on the hood of a car in the street
+66,3.jpg,BLIP-Large,0.2501,i see a bus driving down a street next to a parking lot
+67,3.jpg,BLIP-Large,0.2525,i see a bus driving down a street next to a parking lot
+68,3.jpg,BLIP-Large,0.2509,i see a bus driving down a street next to a parking lot
+69,3.jpg,BLIP-Large,0.2504,i see a bus driving down a street next to a parking lot
+70,3.jpg,BLIP-Large,0.2504,i see a bus driving down a street next to a parking lot
+71,4.jpg,BLIP-Large,0.2834,i see a truck that is driving down the road with a red and white trailer
+72,4.jpg,BLIP-Large,0.2819,i see a truck that is driving down the road with a red and white trailer
+73,4.jpg,BLIP-Large,0.2815,i see a truck that is driving down the road with a red and white trailer
+74,4.jpg,BLIP-Large,0.2809,i see a truck that is driving down the road with a red and white trailer
+75,4.jpg,BLIP-Large,0.2809,i see a truck that is driving down the road with a red and white trailer
+76,5.jpg,BLIP-Large,0.2819,i see a blue van driving down a street with a man in the back seat
+77,5.jpg,BLIP-Large,0.2811,i see a blue van driving down a street with a man in the back seat
+78,5.jpg,BLIP-Large,0.2820,i see a blue van driving down a street with a man in the back seat
+79,5.jpg,BLIP-Large,0.2801,i see a blue van driving down a street with a man in the back seat
+80,5.jpg,BLIP-Large,0.2816,i see a blue van driving down a street with a man in the back seat
+81,6.jpg,BLIP-Large,0.2511,i see a blue van driving down a street next to a building
+82,6.jpg,BLIP-Large,0.2517,i see a blue van driving down a street next to a building
+83,6.jpg,BLIP-Large,0.2504,i see a blue van driving down a street next to a building
+84,6.jpg,BLIP-Large,0.2509,i see a blue van driving down a street next to a building
+85,6.jpg,BLIP-Large,0.2512,i see a blue van driving down a street next to a building
+86,7.jpg,BLIP-Large,0.2400,i see a car driving down a street in a parking lot
+87,7.jpg,BLIP-Large,0.2397,i see a car driving down a street in a parking lot
+88,7.jpg,BLIP-Large,0.2392,i see a car driving down a street in a parking lot
+89,7.jpg,BLIP-Large,0.2401,i see a car driving down a street in a parking lot
+90,7.jpg,BLIP-Large,0.2410,i see a car driving down a street in a parking lot
+91,8.jpg,BLIP-Large,0.2392,i see a truck driving down the street with a blue trailer
+92,8.jpg,BLIP-Large,0.2404,i see a truck driving down the street with a blue trailer
+93,8.jpg,BLIP-Large,0.2397,i see a truck driving down the street with a blue trailer
+94,8.jpg,BLIP-Large,0.2414,i see a truck driving down the street with a blue trailer
+95,8.jpg,BLIP-Large,0.2392,i see a truck driving down the street with a blue trailer
+96,9.jpg,BLIP-Large,0.2290,i see a man riding a motorcycle next to a car
+97,9.jpg,BLIP-Large,0.2309,i see a man riding a motorcycle next to a car
+98,9.jpg,BLIP-Large,0.2309,i see a man riding a motorcycle next to a car
+99,9.jpg,BLIP-Large,0.2298,i see a man riding a motorcycle next to a car
+100,9.jpg,BLIP-Large,0.2302,i see a man riding a motorcycle next to a car
+101,1.jpg,BLIP-VQA,0.1298,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+102,1.jpg,BLIP-VQA,0.1295,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+103,1.jpg,BLIP-VQA,0.1300,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+104,1.jpg,BLIP-VQA,0.1300,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+105,1.jpg,BLIP-VQA,0.1297,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+106,10.jpg,BLIP-VQA,0.1293,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+107,10.jpg,BLIP-VQA,0.1308,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+108,10.jpg,BLIP-VQA,0.1287,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+109,10.jpg,BLIP-VQA,0.1308,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+110,10.jpg,BLIP-VQA,0.1293,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+111,11.jpg,BLIP-VQA,0.1299,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+112,11.jpg,BLIP-VQA,0.1287,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+113,11.jpg,BLIP-VQA,0.1304,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+114,11.jpg,BLIP-VQA,0.1286,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+115,11.jpg,BLIP-VQA,0.1300,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+116,12.jpg,BLIP-VQA,0.1277,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+117,12.jpg,BLIP-VQA,0.1291,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+118,12.jpg,BLIP-VQA,0.1293,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+119,12.jpg,BLIP-VQA,0.1289,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+120,12.jpg,BLIP-VQA,0.1296,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+121,13.jpg,BLIP-VQA,0.1290,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+122,13.jpg,BLIP-VQA,0.1295,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+123,13.jpg,BLIP-VQA,0.1295,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+124,13.jpg,BLIP-VQA,0.1291,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+125,13.jpg,BLIP-VQA,0.1294,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+126,14.jpg,BLIP-VQA,0.1290,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+127,14.jpg,BLIP-VQA,0.1304,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+128,14.jpg,BLIP-VQA,0.1290,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+129,14.jpg,BLIP-VQA,0.1286,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+130,14.jpg,BLIP-VQA,0.1290,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+131,15.jpg,BLIP-VQA,0.1295,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+132,15.jpg,BLIP-VQA,0.1299,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+133,15.jpg,BLIP-VQA,0.1289,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+134,15.jpg,BLIP-VQA,0.1296,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+135,15.jpg,BLIP-VQA,0.1287,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+136,16.jpg,BLIP-VQA,0.1364,What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+137,16.jpg,BLIP-VQA,0.1345,What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+138,16.jpg,BLIP-VQA,0.1344,What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+139,16.jpg,BLIP-VQA,0.1345,What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+140,16.jpg,BLIP-VQA,0.1346,What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+141,17.jpg,BLIP-VQA,0.1287,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+142,17.jpg,BLIP-VQA,0.1292,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+143,17.jpg,BLIP-VQA,0.1293,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+144,17.jpg,BLIP-VQA,0.1290,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+145,17.jpg,BLIP-VQA,0.1304,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+146,18.jpg,BLIP-VQA,0.1307,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+147,18.jpg,BLIP-VQA,0.1296,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+148,18.jpg,BLIP-VQA,0.1290,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+149,18.jpg,BLIP-VQA,0.1290,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+150,18.jpg,BLIP-VQA,0.1299,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+151,19.jpg,BLIP-VQA,0.1296,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+152,19.jpg,BLIP-VQA,0.1288,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+153,19.jpg,BLIP-VQA,0.1306,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+154,19.jpg,BLIP-VQA,0.1294,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+155,19.jpg,BLIP-VQA,0.1304,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+156,2.jpg,BLIP-VQA,0.1293,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+157,2.jpg,BLIP-VQA,0.1299,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+158,2.jpg,BLIP-VQA,0.1297,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+159,2.jpg,BLIP-VQA,0.1311,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+160,2.jpg,BLIP-VQA,0.1295,What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+161,20.jpg,BLIP-VQA,0.1294,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+162,20.jpg,BLIP-VQA,0.1289,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+163,20.jpg,BLIP-VQA,0.1302,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+164,20.jpg,BLIP-VQA,0.1284,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+165,20.jpg,BLIP-VQA,0.1299,What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+166,3.jpg,BLIP-VQA,0.1455,What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+167,3.jpg,BLIP-VQA,0.1447,What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+168,3.jpg,BLIP-VQA,0.1471,What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+169,3.jpg,BLIP-VQA,0.1460,What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+170,3.jpg,BLIP-VQA,0.1448,What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+171,4.jpg,BLIP-VQA,0.1307,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+172,4.jpg,BLIP-VQA,0.1300,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+173,4.jpg,BLIP-VQA,0.1303,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+174,4.jpg,BLIP-VQA,0.1298,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+175,4.jpg,BLIP-VQA,0.1307,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+176,5.jpg,BLIP-VQA,0.1302,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+177,5.jpg,BLIP-VQA,0.1312,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+178,5.jpg,BLIP-VQA,0.1300,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+179,5.jpg,BLIP-VQA,0.1293,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+180,5.jpg,BLIP-VQA,0.1298,What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+181,6.jpg,BLIP-VQA,0.1295,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+182,6.jpg,BLIP-VQA,0.1313,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+183,6.jpg,BLIP-VQA,0.1293,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+184,6.jpg,BLIP-VQA,0.1310,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+185,6.jpg,BLIP-VQA,0.1296,What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+186,7.jpg,BLIP-VQA,0.1307,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+187,7.jpg,BLIP-VQA,0.1286,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+188,7.jpg,BLIP-VQA,0.1296,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+189,7.jpg,BLIP-VQA,0.1291,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+190,7.jpg,BLIP-VQA,0.1305,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+191,8.jpg,BLIP-VQA,0.1301,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+192,8.jpg,BLIP-VQA,0.1293,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+193,8.jpg,BLIP-VQA,0.1294,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+194,8.jpg,BLIP-VQA,0.1298,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+195,8.jpg,BLIP-VQA,0.1291,What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+196,9.jpg,BLIP-VQA,0.1297,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+197,9.jpg,BLIP-VQA,0.1291,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+198,9.jpg,BLIP-VQA,0.1303,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+199,9.jpg,BLIP-VQA,0.1299,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+200,9.jpg,BLIP-VQA,0.1302,What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
