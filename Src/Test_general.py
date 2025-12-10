@@ -69,7 +69,6 @@ VQA_QUESTIONS = {
     "default": [{"q": PROMPT_DESCRIPTIVE, "suffix": ""}] 
 }
 
-
 # --- Utility Functions ---
 
 def imagem_para_base64(caminho_imagem: str) -> str:
@@ -110,9 +109,7 @@ def load_image_classes(class_csv_path: Path) -> dict:
         
     return class_map
 
-
 # --- Model Wrapper Classes ---
-
 class BlipCaptioner:
     """Base class for BLIP models, handling deferred loading/unloading to manage VRAM."""
     def __init__(self, model_name, alias, model_class):
@@ -233,7 +230,6 @@ class BlipVQACaptioner(BlipCaptioner):
             print(f"Error during {self.alias} inference on {image_path}: {e}")
             return -2
 
-
 class ApiCpuModel:
     """Base class for models not requiring sequential VRAM management (Gemini/Ollama)."""
     def __init__(self, alias):
@@ -257,7 +253,6 @@ class ApiCpuModel:
     def run_inference(self, image_path: Path, object_class: str = 'default'):
         """Overridden by subclasses."""
         raise NotImplementedError("Subclasses must implement run_inference.")
-
 
 class GeminiFlashCaptioner(ApiCpuModel):
     def __init__(self):
@@ -311,7 +306,6 @@ class GeminiFlashCaptioner(ApiCpuModel):
             print(f"Error during {self.alias} inference on {image_path}: {e}")
             return -2
 
-
 class OllamaCaptioner(ApiCpuModel):
     def __init__(self, model_name, alias):
         super().__init__(alias)
@@ -357,7 +351,6 @@ class OllamaGemmaCaptioner(OllamaCaptioner):
 class OllamaMoondreamCaptioner(OllamaCaptioner):
     def __init__(self):
         super().__init__("moondream", "Ollama-Moondream")
-
 
 # --- Main Benchmarking Logic ---
 

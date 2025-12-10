@@ -1,0 +1,41 @@
+Image_Name;Question;Answer
+1,jpg;What is the color of the truck in the image?;white
+1,jpg;What is the type of the truck that is shown in the image?;van|delivery
+2,jpg;What is the color of the car in the image?;white
+2,jpg;What is the type of the car that is shown in the image?;hatch
+3,jpg;What is the color of the bus in the image?;yellow
+3,jpg;What is the type of the bus that is shown in the image?;transport|solar|city
+4,jpg;What is the color of the truck in the image?;blue
+4,jpg;What is the type of the truck that is shown in the image?;semi|semi-trailer
+5,jpg;What is the color of the truck in the image?;blue
+5,jpg;What is the type of the truck that is shown in the image?;van
+6,jpg;What is the color of the car in the image?;blue
+6,jpg;What is the type of the car that is shown in the image?;sedan|Volksvagen golf
+7,jpg;What is the color of the car in the image?;silver
+7,jpg;What is the type of the car that is shown in the image?;sedan
+8,jpg;What is the color of the truck in the image?;white
+8,jpg;What is the type of the truck that is shown in the image?;semi|dump
+9,jpg;What is the color of the car in the image?;silver
+9,jpg;What is the type of the car that is shown in the image?;audi
+10,jpg;What is the color of the car in the image?;red
+10,jpg;What is the type of the car that is shown in the image?;sedan
+11,jpg;What is the color of the car in the image?;blue
+11,jpg;What is the type of the car that is shown in the image?;van
+12,jpg;What is the color of the car in the image?;brown
+12,jpg;What is the type of the car that is shown in the image?;sedan
+13,jpg;What is the color of the car in the image?;black
+13,jpg;What is the type of the car that is shown in the image?;sedan
+14,jpg;What is the color of the car in the image?;white
+14,jpg;What is the type of the car that is shown in the image?;van
+15,jpg;What is the color of the truck in the image?;white
+15,jpg;What is the type of the truck that is shown in the image?;semi
+16,jpg;What is the color of the bus in the image?;white
+16,jpg;What is the type of the bus that is shown in the image?;bus
+17,jpg;What is the color of the truck in the image?;white
+17,jpg;What is the type of the truck that is shown in the image?;bus
+18,jpg;What is the color of the car in the image?;red
+18,jpg;What is the type of the car that is shown in the image?;van
+19,jpg;What is the color of the car in the image?;blue
+19,jpg;What is the type of the car that is shown in the image?;sedan
+20,jpg;What is the color of the car in the image?;orange
+20,jpg;What is the type of the car that is shown in the image?;sedan

@@ -1,0 +1,601 @@
+Execution_Number;Image_Name;Model;Time_to_Response_s;Model_Response
+1;1,jpg;Ollama-Gemma3-4B;1,1003;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+2;1,jpg;Ollama-Gemma3-4B;0,6831;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+3;1,jpg;Ollama-Gemma3-4B;0,7630;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+4;1,jpg;Ollama-Gemma3-4B;0,7188;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+5;1,jpg;Ollama-Gemma3-4B;0,7175;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+6;1,jpg;Ollama-Gemma3-4B;0,6085;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+7;1,jpg;Ollama-Gemma3-4B;0,7209;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+8;1,jpg;Ollama-Gemma3-4B;0,7176;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+9;1,jpg;Ollama-Gemma3-4B;0,6855;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+10;1,jpg;Ollama-Gemma3-4B;0,7092;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Van truck
+11;10,jpg;Ollama-Gemma3-4B;1,0572;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+12;10,jpg;Ollama-Gemma3-4B;0,7515;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+13;10,jpg;Ollama-Gemma3-4B;0,7248;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+14;10,jpg;Ollama-Gemma3-4B;0,7206;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+15;10,jpg;Ollama-Gemma3-4B;0,6520;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+16;10,jpg;Ollama-Gemma3-4B;0,6664;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+17;10,jpg;Ollama-Gemma3-4B;0,7204;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+18;10,jpg;Ollama-Gemma3-4B;0,6938;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+19;10,jpg;Ollama-Gemma3-4B;0,7479;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+20;10,jpg;Ollama-Gemma3-4B;0,7297;What is the color of the car in the image?: Red car | What is the type of the car that is shown in the image?: Sedan
+21;11,jpg;Ollama-Gemma3-4B;1,0800;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+22;11,jpg;Ollama-Gemma3-4B;0,7414;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+23;11,jpg;Ollama-Gemma3-4B;0,6353;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+24;11,jpg;Ollama-Gemma3-4B;0,7712;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+25;11,jpg;Ollama-Gemma3-4B;0,6837;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+26;11,jpg;Ollama-Gemma3-4B;0,7344;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+27;11,jpg;Ollama-Gemma3-4B;0,6559;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+28;11,jpg;Ollama-Gemma3-4B;0,6686;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+29;11,jpg;Ollama-Gemma3-4B;0,7155;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+30;11,jpg;Ollama-Gemma3-4B;0,6777;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+31;12,jpg;Ollama-Gemma3-4B;1,1073;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+32;12,jpg;Ollama-Gemma3-4B;0,6901;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+33;12,jpg;Ollama-Gemma3-4B;0,7083;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+34;12,jpg;Ollama-Gemma3-4B;0,7077;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+35;12,jpg;Ollama-Gemma3-4B;0,7074;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+36;12,jpg;Ollama-Gemma3-4B;0,7193;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+37;12,jpg;Ollama-Gemma3-4B;0,7224;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+38;12,jpg;Ollama-Gemma3-4B;0,7447;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+39;12,jpg;Ollama-Gemma3-4B;0,6974;What is the color of the car in the image?: Reddish-brown car | What is the type of the car that is shown in the image?: Sedan
+40;12,jpg;Ollama-Gemma3-4B;0,6875;What is the color of the car in the image?: Red-brown car | What is the type of the car that is shown in the image?: Sedan
+41;13,jpg;Ollama-Gemma3-4B;1,0798;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+42;13,jpg;Ollama-Gemma3-4B;0,6976;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+43;13,jpg;Ollama-Gemma3-4B;0,7321;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+44;13,jpg;Ollama-Gemma3-4B;0,7347;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+45;13,jpg;Ollama-Gemma3-4B;0,6825;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+46;13,jpg;Ollama-Gemma3-4B;0,7368;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+47;13,jpg;Ollama-Gemma3-4B;0,6374;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+48;13,jpg;Ollama-Gemma3-4B;0,7138;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+49;13,jpg;Ollama-Gemma3-4B;0,6683;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+50;13,jpg;Ollama-Gemma3-4B;0,7666;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+51;14,jpg;Ollama-Gemma3-4B;1,0649;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+52;14,jpg;Ollama-Gemma3-4B;0,6206;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+53;14,jpg;Ollama-Gemma3-4B;0,7251;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: White van
+54;14,jpg;Ollama-Gemma3-4B;0,6375;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+55;14,jpg;Ollama-Gemma3-4B;0,6684;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+56;14,jpg;Ollama-Gemma3-4B;0,7393;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+57;14,jpg;Ollama-Gemma3-4B;0,7533;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+58;14,jpg;Ollama-Gemma3-4B;0,7211;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+59;14,jpg;Ollama-Gemma3-4B;0,6846;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+60;14,jpg;Ollama-Gemma3-4B;0,7117;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+61;15,jpg;Ollama-Gemma3-4B;1,0718;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White truck
+62;15,jpg;Ollama-Gemma3-4B;0,7695;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White semi-truck
+63;15,jpg;Ollama-Gemma3-4B;0,6322;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White truck
+64;15,jpg;Ollama-Gemma3-4B;0,6889;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White truck
+65;15,jpg;Ollama-Gemma3-4B;0,7627;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White semi-truck
+66;15,jpg;Ollama-Gemma3-4B;0,6406;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White truck
+67;15,jpg;Ollama-Gemma3-4B;0,6522;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White semi-truck
+68;15,jpg;Ollama-Gemma3-4B;0,6964;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White box truck
+69;15,jpg;Ollama-Gemma3-4B;0,6555;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White truck
+70;15,jpg;Ollama-Gemma3-4B;0,6448;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: White truck
+71;16,jpg;Ollama-Gemma3-4B;1,0929;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: Bus
+72;16,jpg;Ollama-Gemma3-4B;0,6715;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+73;16,jpg;Ollama-Gemma3-4B;0,6852;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+74;16,jpg;Ollama-Gemma3-4B;0,7490;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+75;16,jpg;Ollama-Gemma3-4B;0,6182;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+76;16,jpg;Ollama-Gemma3-4B;0,7137;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+77;16,jpg;Ollama-Gemma3-4B;0,6854;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: Bus
+78;16,jpg;Ollama-Gemma3-4B;0,7094;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+79;16,jpg;Ollama-Gemma3-4B;0,7540;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+80;16,jpg;Ollama-Gemma3-4B;0,7609;What is the color of the bus in the image?: White bus | What is the type of the bus that is shown in the image?: White bus
+81;17,jpg;Ollama-Gemma3-4B;1,0685;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue truck
+82;17,jpg;Ollama-Gemma3-4B;0,7083;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue pickup truck
+83;17,jpg;Ollama-Gemma3-4B;0,7000;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue pickup truck
+84;17,jpg;Ollama-Gemma3-4B;0,7282;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue truck
+85;17,jpg;Ollama-Gemma3-4B;0,6918;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue pickup truck
+86;17,jpg;Ollama-Gemma3-4B;0,6960;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue pickup truck
+87;17,jpg;Ollama-Gemma3-4B;0,7128;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue truck
+88;17,jpg;Ollama-Gemma3-4B;0,7477;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue truck
+89;17,jpg;Ollama-Gemma3-4B;0,6587;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue truck
+90;17,jpg;Ollama-Gemma3-4B;0,7296;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Blue truck
+91;18,jpg;Ollama-Gemma3-4B;1,0167;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Minivan
+92;18,jpg;Ollama-Gemma3-4B;0,6962;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+93;18,jpg;Ollama-Gemma3-4B;0,6957;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+94;18,jpg;Ollama-Gemma3-4B;0,6988;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+95;18,jpg;Ollama-Gemma3-4B;0,7400;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+96;18,jpg;Ollama-Gemma3-4B;0,6115;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+97;18,jpg;Ollama-Gemma3-4B;0,6442;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+98;18,jpg;Ollama-Gemma3-4B;0,7309;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Minivan
+99;18,jpg;Ollama-Gemma3-4B;0,7422;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+100;18,jpg;Ollama-Gemma3-4B;0,6970;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Minivan
+101;19,jpg;Ollama-Gemma3-4B;1,0641;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+102;19,jpg;Ollama-Gemma3-4B;0,6875;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+103;19,jpg;Ollama-Gemma3-4B;0,6839;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+104;19,jpg;Ollama-Gemma3-4B;0,6364;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+105;19,jpg;Ollama-Gemma3-4B;0,7314;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+106;19,jpg;Ollama-Gemma3-4B;0,6820;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+107;19,jpg;Ollama-Gemma3-4B;0,7301;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+108;19,jpg;Ollama-Gemma3-4B;0,6033;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+109;19,jpg;Ollama-Gemma3-4B;0,7125;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+110;19,jpg;Ollama-Gemma3-4B;0,7017;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Van
+111;2,jpg;Ollama-Gemma3-4B;1,0692;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: White van
+112;2,jpg;Ollama-Gemma3-4B;0,7118;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+113;2,jpg;Ollama-Gemma3-4B;0,6827;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+114;2,jpg;Ollama-Gemma3-4B;0,7663;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+115;2,jpg;Ollama-Gemma3-4B;0,6910;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+116;2,jpg;Ollama-Gemma3-4B;0,6447;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+117;2,jpg;Ollama-Gemma3-4B;0,6997;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+118;2,jpg;Ollama-Gemma3-4B;0,7155;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Van
+119;2,jpg;Ollama-Gemma3-4B;0,7123;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: Minivan
+120;2,jpg;Ollama-Gemma3-4B;0,7534;What is the color of the car in the image?: White car | What is the type of the car that is shown in the image?: White van
+121;20,jpg;Ollama-Gemma3-4B;1,0404;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Minivan
+122;20,jpg;Ollama-Gemma3-4B;0,7070;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+123;20,jpg;Ollama-Gemma3-4B;0,6561;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Pink car
+124;20,jpg;Ollama-Gemma3-4B;0,6554;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+125;20,jpg;Ollama-Gemma3-4B;0,7105;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+126;20,jpg;Ollama-Gemma3-4B;0,7666;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+127;20,jpg;Ollama-Gemma3-4B;0,6832;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Minivan
+128;20,jpg;Ollama-Gemma3-4B;0,6824;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Minivan
+129;20,jpg;Ollama-Gemma3-4B;0,7421;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Pink Mini Cooper
+130;20,jpg;Ollama-Gemma3-4B;0,6695;What is the color of the car in the image?: Pink car | What is the type of the car that is shown in the image?: Mini
+131;3,jpg;Ollama-Gemma3-4B;1,1068;What is the color of the bus in the image?: White and yellow | What is the type of the bus that is shown in the image?: Solar bus
+132;3,jpg;Ollama-Gemma3-4B;0,7423;What is the color of the bus in the image?: White and yellow | What is the type of the bus that is shown in the image?: Solar bus
+133;3,jpg;Ollama-Gemma3-4B;0,7444;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+134;3,jpg;Ollama-Gemma3-4B;0,7721;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+135;3,jpg;Ollama-Gemma3-4B;0,7180;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+136;3,jpg;Ollama-Gemma3-4B;0,7892;What is the color of the bus in the image?: White and yellow | What is the type of the bus that is shown in the image?: Solar bus
+137;3,jpg;Ollama-Gemma3-4B;0,7912;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+138;3,jpg;Ollama-Gemma3-4B;0,8064;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+139;3,jpg;Ollama-Gemma3-4B;0,7196;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+140;3,jpg;Ollama-Gemma3-4B;0,7626;What is the color of the bus in the image?: Yellow and white | What is the type of the bus that is shown in the image?: Solar bus
+141;4,jpg;Ollama-Gemma3-4B;1,1064;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+142;4,jpg;Ollama-Gemma3-4B;0,7731;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+143;4,jpg;Ollama-Gemma3-4B;0,7589;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+144;4,jpg;Ollama-Gemma3-4B;0,7307;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+145;4,jpg;Ollama-Gemma3-4B;0,7384;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-trailer truck
+146;4,jpg;Ollama-Gemma3-4B;0,7608;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+147;4,jpg;Ollama-Gemma3-4B;0,7224;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+148;4,jpg;Ollama-Gemma3-4B;0,7519;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-trailer truck
+149;4,jpg;Ollama-Gemma3-4B;0,7359;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+150;4,jpg;Ollama-Gemma3-4B;0,7134;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Semi-truck
+151;5,jpg;Ollama-Gemma3-4B;1,0329;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+152;5,jpg;Ollama-Gemma3-4B;0,7070;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+153;5,jpg;Ollama-Gemma3-4B;0,7110;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+154;5,jpg;Ollama-Gemma3-4B;0,6677;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+155;5,jpg;Ollama-Gemma3-4B;0,6666;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+156;5,jpg;Ollama-Gemma3-4B;0,6627;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+157;5,jpg;Ollama-Gemma3-4B;0,7371;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+158;5,jpg;Ollama-Gemma3-4B;0,7088;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+159;5,jpg;Ollama-Gemma3-4B;0,6708;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+160;5,jpg;Ollama-Gemma3-4B;0,7233;What is the color of the truck in the image?: Blue truck | What is the type of the truck that is shown in the image?: Van truck
+161;6,jpg;Ollama-Gemma3-4B;1,0923;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+162;6,jpg;Ollama-Gemma3-4B;0,7117;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+163;6,jpg;Ollama-Gemma3-4B;0,7228;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+164;6,jpg;Ollama-Gemma3-4B;0,7173;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+165;6,jpg;Ollama-Gemma3-4B;0,6701;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+166;6,jpg;Ollama-Gemma3-4B;0,7277;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+167;6,jpg;Ollama-Gemma3-4B;0,7035;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+168;6,jpg;Ollama-Gemma3-4B;0,7312;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+169;6,jpg;Ollama-Gemma3-4B;0,6645;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+170;6,jpg;Ollama-Gemma3-4B;0,7114;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Volkswagen Golf
+171;7,jpg;Ollama-Gemma3-4B;1,0932;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+172;7,jpg;Ollama-Gemma3-4B;0,6795;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+173;7,jpg;Ollama-Gemma3-4B;0,7503;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+174;7,jpg;Ollama-Gemma3-4B;0,7240;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+175;7,jpg;Ollama-Gemma3-4B;0,7443;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+176;7,jpg;Ollama-Gemma3-4B;0,6893;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+177;7,jpg;Ollama-Gemma3-4B;0,7166;What is the color of the car in the image?: Blue car | What is the type of the car that is shown in the image?: Sedan
+178;7,jpg;Ollama-Gemma3-4B;0,7022;What is the color of the car in the image?: Blue-grey car | What is the type of the car that is shown in the image?: Sedan
+179;7,jpg;Ollama-Gemma3-4B;0,6809;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+180;7,jpg;Ollama-Gemma3-4B;0,7479;What is the color of the car in the image?: Dark blue car | What is the type of the car that is shown in the image?: Sedan
+181;8,jpg;Ollama-Gemma3-4B;0,9951;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Semi-truck
+182;8,jpg;Ollama-Gemma3-4B;0,7316;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Semi-trailer truck
+183;8,jpg;Ollama-Gemma3-4B;0,7115;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Dump truck
+184;8,jpg;Ollama-Gemma3-4B;0,7297;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Dump truck
+185;8,jpg;Ollama-Gemma3-4B;0,7261;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Semi-trailer truck
+186;8,jpg;Ollama-Gemma3-4B;0,6814;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Dump truck
+187;8,jpg;Ollama-Gemma3-4B;0,7473;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Dump truck
+188;8,jpg;Ollama-Gemma3-4B;0,7386;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Dump truck
+189;8,jpg;Ollama-Gemma3-4B;0,7237;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Semi-truck
+190;8,jpg;Ollama-Gemma3-4B;0,6500;What is the color of the truck in the image?: White truck | What is the type of the truck that is shown in the image?: Semi-truck
+191;9,jpg;Ollama-Gemma3-4B;1,1463;What is the color of the car in the image?: Light blue car | What is the type of the car that is shown in the image?: Audi A7
+192;9,jpg;Ollama-Gemma3-4B;0,8356;What is the color of the car in the image?: Light blue car | What is the type of the car that is shown in the image?: Audi A7
+193;9,jpg;Ollama-Gemma3-4B;0,7028;What is the color of the car in the image?: Light blue car | What is the type of the car that is shown in the image?: Audi A7
+194;9,jpg;Ollama-Gemma3-4B;0,7317;What is the color of the car in the image?: Silver-blue car | What is the type of the car that is shown in the image?: Audi A7
+195;9,jpg;Ollama-Gemma3-4B;0,6922;What is the color of the car in the image?: Silver-blue car | What is the type of the car that is shown in the image?: Audi A7
+196;9,jpg;Ollama-Gemma3-4B;0,7128;What is the color of the car in the image?: Silver-blue car | What is the type of the car that is shown in the image?: Audi A7
+197;9,jpg;Ollama-Gemma3-4B;0,7415;What is the color of the car in the image?: Gray car | What is the type of the car that is shown in the image?: Audi A7
+198;9,jpg;Ollama-Gemma3-4B;0,6991;What is the color of the car in the image?: Silver-blue car | What is the type of the car that is shown in the image?: Audi A7
+199;9,jpg;Ollama-Gemma3-4B;0,7165;What is the color of the car in the image?: Light blue car | What is the type of the car that is shown in the image?: Audi A7
+200;9,jpg;Ollama-Gemma3-4B;0,7438;What is the color of the car in the image?: Gray car | What is the type of the car that is shown in the image?: Audi A7
+201;1,jpg;Ollama-Moondream;0,2526;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+202;1,jpg;Ollama-Moondream;0,0972;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+203;1,jpg;Ollama-Moondream;0,0955;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+204;1,jpg;Ollama-Moondream;0,1259;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+205;1,jpg;Ollama-Moondream;0,1178;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+206;1,jpg;Ollama-Moondream;0,0966;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+207;1,jpg;Ollama-Moondream;0,1150;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+208;1,jpg;Ollama-Moondream;0,1200;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+209;1,jpg;Ollama-Moondream;0,1167;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+210;1,jpg;Ollama-Moondream;0,1182;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+211;10,jpg;Ollama-Moondream;0,2594;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+212;10,jpg;Ollama-Moondream;0,1198;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+213;10,jpg;Ollama-Moondream;0,1225;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+214;10,jpg;Ollama-Moondream;0,1258;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+215;10,jpg;Ollama-Moondream;0,1193;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+216;10,jpg;Ollama-Moondream;0,1164;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+217;10,jpg;Ollama-Moondream;0,1197;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+218;10,jpg;Ollama-Moondream;0,1156;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+219;10,jpg;Ollama-Moondream;0,1172;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+220;10,jpg;Ollama-Moondream;0,1199;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+221;11,jpg;Ollama-Moondream;0,2642;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+222;11,jpg;Ollama-Moondream;0,1153;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+223;11,jpg;Ollama-Moondream;0,1181;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+224;11,jpg;Ollama-Moondream;0,1196;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+225;11,jpg;Ollama-Moondream;0,1162;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+226;11,jpg;Ollama-Moondream;0,1185;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+227;11,jpg;Ollama-Moondream;0,1160;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+228;11,jpg;Ollama-Moondream;0,1160;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+229;11,jpg;Ollama-Moondream;0,1200;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+230;11,jpg;Ollama-Moondream;0,1179;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+231;12,jpg;Ollama-Moondream;0,2727;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+232;12,jpg;Ollama-Moondream;0,1180;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+233;12,jpg;Ollama-Moondream;0,1203;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+234;12,jpg;Ollama-Moondream;0,1143;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+235;12,jpg;Ollama-Moondream;0,1205;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+236;12,jpg;Ollama-Moondream;0,1187;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+237;12,jpg;Ollama-Moondream;0,1175;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+238;12,jpg;Ollama-Moondream;0,1201;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+239;12,jpg;Ollama-Moondream;0,1179;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+240;12,jpg;Ollama-Moondream;0,1212;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+241;13,jpg;Ollama-Moondream;0,2712;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+242;13,jpg;Ollama-Moondream;0,1184;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+243;13,jpg;Ollama-Moondream;0,1173;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+244;13,jpg;Ollama-Moondream;0,1162;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+245;13,jpg;Ollama-Moondream;0,1155;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+246;13,jpg;Ollama-Moondream;0,1190;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+247;13,jpg;Ollama-Moondream;0,1186;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+248;13,jpg;Ollama-Moondream;0,0992;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+249;13,jpg;Ollama-Moondream;0,1215;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+250;13,jpg;Ollama-Moondream;0,1161;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+251;14,jpg;Ollama-Moondream;0,2552;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+252;14,jpg;Ollama-Moondream;0,1161;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+253;14,jpg;Ollama-Moondream;0,1146;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+254;14,jpg;Ollama-Moondream;0,1187;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+255;14,jpg;Ollama-Moondream;0,1160;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+256;14,jpg;Ollama-Moondream;0,1156;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+257;14,jpg;Ollama-Moondream;0,1224;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+258;14,jpg;Ollama-Moondream;0,1162;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+259;14,jpg;Ollama-Moondream;0,1196;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+260;14,jpg;Ollama-Moondream;0,1158;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+261;15,jpg;Ollama-Moondream;0,2650;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+262;15,jpg;Ollama-Moondream;0,1156;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+263;15,jpg;Ollama-Moondream;0,1156;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+264;15,jpg;Ollama-Moondream;0,1206;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+265;15,jpg;Ollama-Moondream;0,1173;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+266;15,jpg;Ollama-Moondream;0,1234;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+267;15,jpg;Ollama-Moondream;0,1161;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+268;15,jpg;Ollama-Moondream;0,1184;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+269;15,jpg;Ollama-Moondream;0,1175;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+270;15,jpg;Ollama-Moondream;0,1173;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+271;16,jpg;Ollama-Moondream;0,2439;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+272;16,jpg;Ollama-Moondream;0,1161;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+273;16,jpg;Ollama-Moondream;0,1167;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+274;16,jpg;Ollama-Moondream;0,1176;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+275;16,jpg;Ollama-Moondream;0,1192;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+276;16,jpg;Ollama-Moondream;0,1192;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+277;16,jpg;Ollama-Moondream;0,1172;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+278;16,jpg;Ollama-Moondream;0,1179;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+279;16,jpg;Ollama-Moondream;0,1185;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+280;16,jpg;Ollama-Moondream;0,1165;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?: ivan
+281;17,jpg;Ollama-Moondream;0,2539;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+282;17,jpg;Ollama-Moondream;0,1074;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+283;17,jpg;Ollama-Moondream;0,1155;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+284;17,jpg;Ollama-Moondream;0,1176;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+285;17,jpg;Ollama-Moondream;0,1171;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+286;17,jpg;Ollama-Moondream;0,1157;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+287;17,jpg;Ollama-Moondream;0,1198;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+288;17,jpg;Ollama-Moondream;0,1181;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+289;17,jpg;Ollama-Moondream;0,1159;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+290;17,jpg;Ollama-Moondream;0,1151;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+291;18,jpg;Ollama-Moondream;0,2657;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+292;18,jpg;Ollama-Moondream;0,1206;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+293;18,jpg;Ollama-Moondream;0,1159;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+294;18,jpg;Ollama-Moondream;0,1151;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+295;18,jpg;Ollama-Moondream;0,1156;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+296;18,jpg;Ollama-Moondream;0,1235;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+297;18,jpg;Ollama-Moondream;0,1219;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+298;18,jpg;Ollama-Moondream;0,1118;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+299;18,jpg;Ollama-Moondream;0,1195;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+300;18,jpg;Ollama-Moondream;0,1113;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+301;19,jpg;Ollama-Moondream;0,2469;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+302;19,jpg;Ollama-Moondream;0,1193;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+303;19,jpg;Ollama-Moondream;0,1144;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+304;19,jpg;Ollama-Moondream;0,1198;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+305;19,jpg;Ollama-Moondream;0,1197;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+306;19,jpg;Ollama-Moondream;0,1178;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+307;19,jpg;Ollama-Moondream;0,1145;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+308;19,jpg;Ollama-Moondream;0,1147;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+309;19,jpg;Ollama-Moondream;0,1172;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+310;19,jpg;Ollama-Moondream;0,1162;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+311;2,jpg;Ollama-Moondream;0,2736;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+312;2,jpg;Ollama-Moondream;0,1163;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+313;2,jpg;Ollama-Moondream;0,1191;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+314;2,jpg;Ollama-Moondream;0,1178;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+315;2,jpg;Ollama-Moondream;0,1185;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+316;2,jpg;Ollama-Moondream;0,1242;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+317;2,jpg;Ollama-Moondream;0,1283;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+318;2,jpg;Ollama-Moondream;0,1171;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+319;2,jpg;Ollama-Moondream;0,1166;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+320;2,jpg;Ollama-Moondream;0,1182;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+321;20,jpg;Ollama-Moondream;0,2747;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+322;20,jpg;Ollama-Moondream;0,1198;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+323;20,jpg;Ollama-Moondream;0,1168;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+324;20,jpg;Ollama-Moondream;0,1175;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+325;20,jpg;Ollama-Moondream;0,1168;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+326;20,jpg;Ollama-Moondream;0,1175;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+327;20,jpg;Ollama-Moondream;0,1171;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+328;20,jpg;Ollama-Moondream;0,1178;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+329;20,jpg;Ollama-Moondream;0,1159;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+330;20,jpg;Ollama-Moondream;0,1171;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+331;3,jpg;Ollama-Moondream;0,2670;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+332;3,jpg;Ollama-Moondream;0,1127;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+333;3,jpg;Ollama-Moondream;0,0939;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+334;3,jpg;Ollama-Moondream;0,1153;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+335;3,jpg;Ollama-Moondream;0,1132;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+336;3,jpg;Ollama-Moondream;0,1133;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+337;3,jpg;Ollama-Moondream;0,1155;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+338;3,jpg;Ollama-Moondream;0,1195;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+339;3,jpg;Ollama-Moondream;0,1141;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+340;3,jpg;Ollama-Moondream;0,1130;What is the color of the bus in the image?:  bus | What is the type of the bus that is shown in the image?:
+341;4,jpg;Ollama-Moondream;0,2373;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+342;4,jpg;Ollama-Moondream;0,1205;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+343;4,jpg;Ollama-Moondream;0,1227;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+344;4,jpg;Ollama-Moondream;0,1167;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+345;4,jpg;Ollama-Moondream;0,1208;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+346;4,jpg;Ollama-Moondream;0,1204;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+347;4,jpg;Ollama-Moondream;0,1210;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+348;4,jpg;Ollama-Moondream;0,1204;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+349;4,jpg;Ollama-Moondream;0,1230;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+350;4,jpg;Ollama-Moondream;0,1203;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ers truck
+351;5,jpg;Ollama-Moondream;0,2559;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+352;5,jpg;Ollama-Moondream;0,0973;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+353;5,jpg;Ollama-Moondream;0,1237;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+354;5,jpg;Ollama-Moondream;0,1156;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+355;5,jpg;Ollama-Moondream;0,1203;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+356;5,jpg;Ollama-Moondream;0,1181;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+357;5,jpg;Ollama-Moondream;0,1201;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+358;5,jpg;Ollama-Moondream;0,1162;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+359;5,jpg;Ollama-Moondream;0,1168;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+360;5,jpg;Ollama-Moondream;0,1177;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+361;6,jpg;Ollama-Moondream;0,2668;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+362;6,jpg;Ollama-Moondream;0,1164;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+363;6,jpg;Ollama-Moondream;0,1196;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+364;6,jpg;Ollama-Moondream;0,1187;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+365;6,jpg;Ollama-Moondream;0,1166;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+366;6,jpg;Ollama-Moondream;0,1170;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+367;6,jpg;Ollama-Moondream;0,1208;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+368;6,jpg;Ollama-Moondream;0,1217;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+369;6,jpg;Ollama-Moondream;0,1225;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+370;6,jpg;Ollama-Moondream;0,1160;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+371;7,jpg;Ollama-Moondream;0,2660;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+372;7,jpg;Ollama-Moondream;0,1199;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+373;7,jpg;Ollama-Moondream;0,1149;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+374;7,jpg;Ollama-Moondream;0,1223;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+375;7,jpg;Ollama-Moondream;0,1162;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+376;7,jpg;Ollama-Moondream;0,1179;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+377;7,jpg;Ollama-Moondream;0,1165;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+378;7,jpg;Ollama-Moondream;0,1194;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+379;7,jpg;Ollama-Moondream;0,1201;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+380;7,jpg;Ollama-Moondream;0,1165;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+381;8,jpg;Ollama-Moondream;0,2362;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+382;8,jpg;Ollama-Moondream;0,1167;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+383;8,jpg;Ollama-Moondream;0,1191;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+384;8,jpg;Ollama-Moondream;0,1073;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+385;8,jpg;Ollama-Moondream;0,0972;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+386;8,jpg;Ollama-Moondream;0,1074;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+387;8,jpg;Ollama-Moondream;0,1189;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+388;8,jpg;Ollama-Moondream;0,1168;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+389;8,jpg;Ollama-Moondream;0,1166;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+390;8,jpg;Ollama-Moondream;0,1202;What is the color of the truck in the image?:  truck | What is the type of the truck that is shown in the image?: ivan truck
+391;9,jpg;Ollama-Moondream;0,2609;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+392;9,jpg;Ollama-Moondream;0,1138;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+393;9,jpg;Ollama-Moondream;0,1173;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+394;9,jpg;Ollama-Moondream;0,1161;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+395;9,jpg;Ollama-Moondream;0,1175;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+396;9,jpg;Ollama-Moondream;0,1135;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+397;9,jpg;Ollama-Moondream;0,1187;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+398;9,jpg;Ollama-Moondream;0,1192;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+399;9,jpg;Ollama-Moondream;0,1131;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+400;9,jpg;Ollama-Moondream;0,1123;What is the color of the car in the image?:  car | What is the type of the car that is shown in the image?: ivan
+401;1,jpg;BLIP-VQA;0,0923;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+402;1,jpg;BLIP-VQA;0,0926;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+403;1,jpg;BLIP-VQA;0,0925;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+404;1,jpg;BLIP-VQA;0,0927;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+405;1,jpg;BLIP-VQA;0,0926;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+406;1,jpg;BLIP-VQA;0,0923;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+407;1,jpg;BLIP-VQA;0,0928;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+408;1,jpg;BLIP-VQA;0,0923;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+409;1,jpg;BLIP-VQA;0,0925;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+410;1,jpg;BLIP-VQA;0,0922;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: delivery truck
+411;10,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+412;10,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+413;10,jpg;BLIP-VQA;0,0923;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+414;10,jpg;BLIP-VQA;0,0927;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+415;10,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+416;10,jpg;BLIP-VQA;0,0935;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+417;10,jpg;BLIP-VQA;0,0923;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+418;10,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+419;10,jpg;BLIP-VQA;0,0924;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+420;10,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: honda
+421;11,jpg;BLIP-VQA;0,0919;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+422;11,jpg;BLIP-VQA;0,0950;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+423;11,jpg;BLIP-VQA;0,0946;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+424;11,jpg;BLIP-VQA;0,0948;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+425;11,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+426;11,jpg;BLIP-VQA;0,0917;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+427;11,jpg;BLIP-VQA;0,0919;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+428;11,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+429;11,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+430;11,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+431;12,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+432;12,jpg;BLIP-VQA;0,0928;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+433;12,jpg;BLIP-VQA;0,0901;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+434;12,jpg;BLIP-VQA;0,0896;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+435;12,jpg;BLIP-VQA;0,0893;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+436;12,jpg;BLIP-VQA;0,0898;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+437;12,jpg;BLIP-VQA;0,0917;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+438;12,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+439;12,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+440;12,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: sedan
+441;13,jpg;BLIP-VQA;0,0911;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+442;13,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+443;13,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+444;13,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+445;13,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+446;13,jpg;BLIP-VQA;0,0942;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+447;13,jpg;BLIP-VQA;0,0945;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+448;13,jpg;BLIP-VQA;0,0947;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+449;13,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+450;13,jpg;BLIP-VQA;0,0919;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: truck
+451;14,jpg;BLIP-VQA;0,0917;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+452;14,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+453;14,jpg;BLIP-VQA;0,0917;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+454;14,jpg;BLIP-VQA;0,0917;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+455;14,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+456;14,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+457;14,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+458;14,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+459;14,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+460;14,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: van
+461;15,jpg;BLIP-VQA;0,0915;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+462;15,jpg;BLIP-VQA;0,0917;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+463;15,jpg;BLIP-VQA;0,0918;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+464;15,jpg;BLIP-VQA;0,0917;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+465;15,jpg;BLIP-VQA;0,0918;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+466;15,jpg;BLIP-VQA;0,0913;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+467;15,jpg;BLIP-VQA;0,0913;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+468;15,jpg;BLIP-VQA;0,0916;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+469;15,jpg;BLIP-VQA;0,0915;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+470;15,jpg;BLIP-VQA;0,0927;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+471;16,jpg;BLIP-VQA;0,1070;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+472;16,jpg;BLIP-VQA;0,1054;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+473;16,jpg;BLIP-VQA;0,1031;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+474;16,jpg;BLIP-VQA;0,1028;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+475;16,jpg;BLIP-VQA;0,1028;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+476;16,jpg;BLIP-VQA;0,1030;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+477;16,jpg;BLIP-VQA;0,1030;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+478;16,jpg;BLIP-VQA;0,1029;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+479;16,jpg;BLIP-VQA;0,1031;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+480;16,jpg;BLIP-VQA;0,1027;What is the color of the bus in the image?: white bus | What is the type of the bus that is shown in the image?: double decker
+481;17,jpg;BLIP-VQA;0,0917;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+482;17,jpg;BLIP-VQA;0,0920;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+483;17,jpg;BLIP-VQA;0,0918;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+484;17,jpg;BLIP-VQA;0,0916;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+485;17,jpg;BLIP-VQA;0,0917;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+486;17,jpg;BLIP-VQA;0,0923;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+487;17,jpg;BLIP-VQA;0,0924;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+488;17,jpg;BLIP-VQA;0,0922;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+489;17,jpg;BLIP-VQA;0,0919;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+490;17,jpg;BLIP-VQA;0,0916;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+491;18,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+492;18,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+493;18,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+494;18,jpg;BLIP-VQA;0,0935;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+495;18,jpg;BLIP-VQA;0,0937;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+496;18,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+497;18,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+498;18,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+499;18,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+500;18,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: truck
+501;19,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+502;19,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+503;19,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+504;19,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+505;19,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+506;19,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+507;19,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+508;19,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+509;19,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+510;19,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: truck
+511;2,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+512;2,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+513;2,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+514;2,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+515;2,jpg;BLIP-VQA;0,0923;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+516;2,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+517;2,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+518;2,jpg;BLIP-VQA;0,0945;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+519;2,jpg;BLIP-VQA;0,0946;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+520;2,jpg;BLIP-VQA;0,0946;What is the color of the car in the image?: white car | What is the type of the car that is shown in the image?: white
+521;20,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+522;20,jpg;BLIP-VQA;0,0917;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+523;20,jpg;BLIP-VQA;0,0931;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+524;20,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+525;20,jpg;BLIP-VQA;0,0919;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+526;20,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+527;20,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+528;20,jpg;BLIP-VQA;0,0915;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+529;20,jpg;BLIP-VQA;0,0918;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+530;20,jpg;BLIP-VQA;0,0914;What is the color of the car in the image?: red car | What is the type of the car that is shown in the image?: old
+531;3,jpg;BLIP-VQA;0,1263;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+532;3,jpg;BLIP-VQA;0,1264;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+533;3,jpg;BLIP-VQA;0,1258;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+534;3,jpg;BLIP-VQA;0,1261;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+535;3,jpg;BLIP-VQA;0,1263;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+536;3,jpg;BLIP-VQA;0,1263;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+537;3,jpg;BLIP-VQA;0,1258;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+538;3,jpg;BLIP-VQA;0,1263;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+539;3,jpg;BLIP-VQA;0,1283;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+540;3,jpg;BLIP-VQA;0,1289;What is the color of the bus in the image?: yellow and white | What is the type of the bus that is shown in the image?: double decker
+541;4,jpg;BLIP-VQA;0,0937;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+542;4,jpg;BLIP-VQA;0,0933;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+543;4,jpg;BLIP-VQA;0,0930;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+544;4,jpg;BLIP-VQA;0,0931;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+545;4,jpg;BLIP-VQA;0,0933;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+546;4,jpg;BLIP-VQA;0,0934;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+547;4,jpg;BLIP-VQA;0,0931;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+548;4,jpg;BLIP-VQA;0,0932;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+549;4,jpg;BLIP-VQA;0,0935;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+550;4,jpg;BLIP-VQA;0,0933;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: semi truck
+551;5,jpg;BLIP-VQA;0,0925;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+552;5,jpg;BLIP-VQA;0,0924;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+553;5,jpg;BLIP-VQA;0,0923;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+554;5,jpg;BLIP-VQA;0,0923;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+555;5,jpg;BLIP-VQA;0,0919;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+556;5,jpg;BLIP-VQA;0,0922;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+557;5,jpg;BLIP-VQA;0,0924;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+558;5,jpg;BLIP-VQA;0,0921;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+559;5,jpg;BLIP-VQA;0,0920;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+560;5,jpg;BLIP-VQA;0,0921;What is the color of the truck in the image?: blue truck | What is the type of the truck that is shown in the image?: bus truck
+561;6,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+562;6,jpg;BLIP-VQA;0,0925;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+563;6,jpg;BLIP-VQA;0,0952;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+564;6,jpg;BLIP-VQA;0,0949;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+565;6,jpg;BLIP-VQA;0,0927;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+566;6,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+567;6,jpg;BLIP-VQA;0,0924;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+568;6,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+569;6,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+570;6,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: blue car | What is the type of the car that is shown in the image?: sedan
+571;7,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+572;7,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+573;7,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+574;7,jpg;BLIP-VQA;0,0916;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+575;7,jpg;BLIP-VQA;0,0924;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+576;7,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+577;7,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+578;7,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+579;7,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+580;7,jpg;BLIP-VQA;0,0919;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: sedan
+581;8,jpg;BLIP-VQA;0,0922;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+582;8,jpg;BLIP-VQA;0,0919;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+583;8,jpg;BLIP-VQA;0,0921;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+584;8,jpg;BLIP-VQA;0,0921;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+585;8,jpg;BLIP-VQA;0,0921;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+586;8,jpg;BLIP-VQA;0,0919;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+587;8,jpg;BLIP-VQA;0,0946;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+588;8,jpg;BLIP-VQA;0,0946;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+589;8,jpg;BLIP-VQA;0,0928;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+590;8,jpg;BLIP-VQA;0,0920;What is the color of the truck in the image?: white truck | What is the type of the truck that is shown in the image?: semi truck
+591;9,jpg;BLIP-VQA;0,0919;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+592;9,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+593;9,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+594;9,jpg;BLIP-VQA;0,0921;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+595;9,jpg;BLIP-VQA;0,0923;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+596;9,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+597;9,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+598;9,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+599;9,jpg;BLIP-VQA;0,0920;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
+600;9,jpg;BLIP-VQA;0,0922;What is the color of the car in the image?: silver car | What is the type of the car that is shown in the image?: audi
