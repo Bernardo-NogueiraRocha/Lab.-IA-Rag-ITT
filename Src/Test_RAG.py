@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from llama_index.core import Document, VectorStoreIndex
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from vqa2 import Captioner  # Importando sua classe do arquivo vqa2.py
+from vqa2 import Captioner
 from PIL import Image
 
 # =================CONFIGURAÇÕES=================
@@ -12,9 +12,7 @@ TOP_K = 5  # Quantas imagens recuperar por busca
 # ===============================================
 
 def generate_captions_from_csv(df, captioner):
-    """
-    Gera legendas usando o VQA-2 baseado nas classes do CSV.
-    """
+
     documents = []
     print(f"--- Iniciando geração de captions para {len(df)} imagens ---")
 
@@ -29,7 +27,6 @@ def generate_captions_from_csv(df, captioner):
             continue
 
         try:
-            # Lógica adaptada do seu vqa2.py
             # Carrega imagem
             raw_image = Image.open(image_path).convert('RGB')
             
@@ -69,9 +66,6 @@ def generate_captions_from_csv(df, captioner):
     return documents
 
 def evaluate_retrieval(index, unique_classes, df_ground_truth):
-    """
-    Testa a recuperação: Busca pela classe e vê se as imagens retornadas são daquela classe.
-    """
     retriever = index.as_retriever(similarity_top_k=TOP_K)
     
     print("\n=== RELATÓRIO DE AVALIAÇÃO DE RECUPERAÇÃO ===")
@@ -111,18 +105,13 @@ def main():
     unique_classes = df['object_class'].unique()
     print(f"Classes encontradas: {unique_classes}")
 
-    # Assumindo que sua classe Captioner lida com device e load internamente
     captioner = Captioner() 
 
-    # 3. Gerar Captions e Documentos
     docs = generate_captions_from_csv(df, captioner)
 
-    # 4. Criar Índice (Simulando o Gemini_RAG, mas local para teste rápido)
-    # Usando o mesmo embedding que você usou no Gemini_RAG.py
     embed_model = HuggingFaceEmbedding(model_name="sentence-transformers/all-MiniLM-L6-v2")
     index = VectorStoreIndex.from_documents(docs, embed_model=embed_model)
 
-    # 5. Avaliar
     evaluate_retrieval(index, unique_classes, df)
 
 if __name__ == "__main__":

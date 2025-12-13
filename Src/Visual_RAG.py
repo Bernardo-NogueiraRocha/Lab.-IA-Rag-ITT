@@ -4,10 +4,10 @@ import os
 from PIL import Image
 from llama_index.core import Document, VectorStoreIndex
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from vqa2 import Captioner  # Importa sua classe existente
+from vqa2 import Captioner
 
 # ================= CONFIGURAÇÕES =================
-IMAGE_DIR = "Test_images"       # Pasta onde estão as imagens
+IMAGE_DIR = "Test_images"
 CSV_FILE = "Test_images/image_classes.csv"
 MODEL_EMBEDDING = "sentence-transformers/all-MiniLM-L6-v2"
 # ===============================================
@@ -16,24 +16,19 @@ st.set_page_config(page_title="VQA Search Engine", layout="wide")
 
 @st.cache_resource
 def load_vqa_and_index():
-    """
-    Carrega o modelo VQA, gera as legendas (apenas uma vez) e cria o índice.
-    O uso de @st.cache_resource impede que isso rode a cada interação do usuário.
-    """
+ 
     status_text = st.empty()
-    status_text.info("⏳ Carregando Modelos e Indexando Imagens... (Isso acontece apenas na primeira execução)")
+    status_text.info("Carregando Modelos e Indexando Imagens... (Isso acontece apenas na primeira execução)")
 
-    # 1. Carregar CSV e Modelo VQA
     df = pd.read_csv(CSV_FILE)
-    captioner = Captioner() # Carrega o BLIP
+    captioner = Captioner()
     
     documents = []
     
-    # Barra de progresso para indexação
     progress_bar = st.progress(0)
     total_images = len(df)
 
-    # 2. Gerar Legendas (Mesma lógica do seu script de teste)
+    # Gerar Legendas
     for idx, row in df.iterrows():
         image_name = row['image_name']
         obj_class = row['object_class']
@@ -74,7 +69,7 @@ def load_vqa_and_index():
 
     progress_bar.empty()
 
-    # 3. Criar Índice Vetorial
+    # Criar Índice Vetorial
     embed_model = HuggingFaceEmbedding(model_name=MODEL_EMBEDDING)
     index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
     
